@@ -1,0 +1,30 @@
+{
+   "name": "Daenerys Targaryen",
+   "house": "Targaryen",
+   "wayPoints": [
+      {
+      "x": 15,
+      "y": 15,
+      "velocity": 1.0,
+      "delayMillis": 1000
+      },
+      {
+        "x": -15,
+        "y": 15,
+        "velocity": 1.0,
+        "delayMillis": 1000
+      },
+      {
+        "x": -15,
+        "y": -15,
+        "velocity": 1.0,
+        "delayMillis": 1000        
+      }, 
+      {
+         "x": 15,
+         "y": -15,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      }
+   ]
+}
