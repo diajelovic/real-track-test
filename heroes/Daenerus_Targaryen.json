@@ -3,26 +3,140 @@
    "house": "Targaryen",
    "wayPoints": [
       {
-      "x": 15,
-      "y": 15,
+      "x": 550,
+      "y": 472,
       "velocity": 1.0,
       "delayMillis": 1000
       },
       {
-        "x": -15,
-        "y": 15,
+        "x": 612,
+        "y": 488,
         "velocity": 1.0,
         "delayMillis": 1000
       },
       {
-        "x": -15,
-        "y": -15,
+        "x": 658,
+        "y": 538,
         "velocity": 1.0,
         "delayMillis": 1000        
       }, 
       {
-         "x": 15,
-         "y": -15,
+         "x": 755,
+         "y": 468,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      }, 
+      {
+         "x": 826,
+         "y": 419,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      }, 
+      {
+         "x": 865,
+         "y": 474,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      }, 
+      {
+         "x": 937,
+         "y": 438,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      }, 
+      {
+         "x": 984,
+         "y": 394,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      }, 
+      {
+         "x": 1057,
+         "y": 382,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      },
+      {
+         "x": 1105,
+         "y": 320,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      },
+      {
+         "x": 1179,
+         "y": 288,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      },
+      {
+         "x": 1250,
+         "y": 234,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      },
+      {
+         "x": 1280,
+         "y": 135,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      },
+      {
+         "x": 1300,
+         "y": -100,
+         "velocity": 1.0,
+         "delayMillis": 10000     
+      },
+      {
+         "x": 1100,
+         "y": -10,
+         "velocity": 1.0,
+         "delayMillis": 10000     
+      },
+      {
+         "x": 1080,
+         "y": 10,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      },
+      {
+         "x": 1050,
+         "y": 40,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      },
+      {
+         "x": 1015,
+         "y": 105,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      },
+      {
+         "x": 1013,
+         "y": 145,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      },
+      {
+         "x": 1005,
+         "y": 181,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      },
+      {
+         "x": 1059,
+         "y": 159,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      },
+      {
+         "x": 1089,
+         "y": 171,
+         "velocity": 1.0,
+         "delayMillis": 1000     
+      },
+      {
+         "x": 1092,
+         "y": 242,
          "velocity": 1.0,
          "delayMillis": 1000     
       }
