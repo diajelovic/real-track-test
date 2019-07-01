@@ -1,0 +1,17 @@
+{
+    "name": "Stannis Baratheon",
+    "house": "Baratheon",
+    "wayPoints": [
+       {
+        "x": 366.8,
+        "y": 461.8,
+       "velocity": 1.0,
+       "delayMillis": 1000
+       },{
+        "x": 366.9,
+        "y": 461.9,
+       "velocity": 1.0,
+       "delayMillis": 1000
+       }
+    ]
+}

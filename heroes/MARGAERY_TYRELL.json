@@ -1,0 +1,18 @@
+{
+    "name": "Margaery Tyrell",
+    "house": "Tyrell",
+    "wayPoints": [
+       {
+       "x": 192,
+       "y": 393,
+       "velocity": 1.0,
+       "delayMillis": 1000
+       },
+       {
+        "x": 192.5,
+        "y": 393,
+        "velocity": 1.0,
+        "delayMillis": 1000
+        }
+    ]
+}

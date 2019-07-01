@@ -1,0 +1,17 @@
+{
+    "name": "Sansa Stark",
+    "house": "Stark",
+    "wayPoints": [
+       {
+       "x": 303,
+       "y": 806,
+       "velocity": 1.0,
+       "delayMillis": 1000
+       },{
+        "x": 303.2,
+        "y": 806.2,
+        "velocity": 1.0,
+        "delayMillis": 1000
+        }
+    ]
+}

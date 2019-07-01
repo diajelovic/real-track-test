@@ -1,0 +1,18 @@
+{
+    "name": "Samwell Tarly",
+    "house": "Tarly",
+    "wayPoints": [
+       {
+       "x": 199,
+       "y": 276,
+       "velocity": 1.0,
+       "delayMillis": 1000
+       },
+       {
+        "x": 199.2,
+        "y": 276.2,
+        "velocity": 1.0,
+        "delayMillis": 1000
+        }
+    ]
+}

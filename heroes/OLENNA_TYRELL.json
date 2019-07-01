@@ -1,0 +1,18 @@
+{
+    "name": "Olenna Tyrell",
+    "house": "Tyrell",
+    "wayPoints": [
+       {
+       "x": 192.3,
+       "y": 393.4,
+       "velocity": 1.0,
+       "delayMillis": 1000
+       },
+       {
+        "x": 192.4,
+        "y": 393.4,
+        "velocity": 1.0,
+        "delayMillis": 1000
+        }
+    ]
+}
