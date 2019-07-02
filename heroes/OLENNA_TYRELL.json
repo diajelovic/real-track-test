@@ -2,17 +2,35 @@
     "name": "Olenna Tyrell",
     "house": "Tyrell",
     "wayPoints": [
-       {
-       "x": 192.3,
-       "y": 393.4,
-       "velocity": 1.0,
-       "delayMillis": 1000
-       },
-       {
-        "x": 192.4,
-        "y": 393.4,
-        "velocity": 1.0,
-        "delayMillis": 1000
+        {
+          "x": 196,
+          "y": 394.5,
+          "velocity": 1,
+          "delayMillis": 60000
+        },
+        {
+          "x": 245,
+          "y": 356.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 290,
+          "y": 410.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 358,
+          "y": 428.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 376,
+          "y": 456.5,
+          "velocity": 1,
+          "delayMillis": 120000
         }
-    ]
+      ]
 }

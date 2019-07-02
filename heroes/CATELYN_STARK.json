@@ -2,17 +2,53 @@
     "name": "Catelyn Stark",
     "house": "Stark",
     "wayPoints": [
-       {
-       "x": 302.2,
-       "y": 805.2,
-       "velocity": 1.0,
-       "delayMillis": 1000
-       },
-       {
-        "x": 302,
-        "y": 805.2,
-        "velocity": 1.0,
-        "delayMillis": 1000
+        {
+          "x": 305,
+          "y": 806.5,
+          "velocity": 1,
+          "delayMillis": 10000
+        },
+        {
+          "x": 306,
+          "y": 702.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 303,
+          "y": 610.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 350,
+          "y": 532.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 371,
+          "y": 458.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 322,
+          "y": 583.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 303,
+          "y": 654.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 302,
+          "y": 802.5,
+          "velocity": 1,
+          "delayMillis": 1000
         }
-    ]
+      ]
 }

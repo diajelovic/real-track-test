@@ -2,17 +2,41 @@
     "name": "Ned Stark",
     "house": "Stark",
     "wayPoints": [
-       {
-       "x": 302.6,
-       "y": 805.6,
-       "velocity": 1.0,
-       "delayMillis": 1000
-       },
-       {
-        "x": 302.6,
-        "y": 805.4,
-        "velocity": 1.0,
-        "delayMillis": 1000
+        {
+          "x": 302,
+          "y": 804.5,
+          "velocity": 1,
+          "delayMillis": 15000
+        },
+        {
+          "x": 305,
+          "y": 742.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 306,
+          "y": 687.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 303,
+          "y": 625.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 341,
+          "y": 558.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 368,
+          "y": 460.5,
+          "velocity": 1,
+          "delayMillis": 1000
         }
-    ]
+      ]
 }

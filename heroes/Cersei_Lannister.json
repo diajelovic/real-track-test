@@ -2,17 +2,59 @@
     "name": "Cersei Lannister",
     "house": "Lannister",
     "wayPoints": [
-       {
-       "x": 366,
-       "y": 461,
-       "velocity": 1.0,
-       "delayMillis": 1000
-       },
-       {
-        "x": 366.1,
-        "y": 461.1,
-        "velocity": 1.0,
-        "delayMillis": 1000
+        {
+          "x": 367,
+          "y": 459.5,
+          "velocity": 25,
+          "delayMillis": 1000
+        },
+        {
+          "x": 341,
+          "y": 555.5,
+          "velocity": 25,
+          "delayMillis": 1000
+        },
+        {
+          "x": 280,
+          "y": 606.5,
+          "velocity": 25,
+          "delayMillis": 1000
+        },
+        {
+          "x": 305,
+          "y": 699.5,
+          "velocity": 25,
+          "delayMillis": 1000
+        },
+        {
+          "x": 301,
+          "y": 810.5,
+          "velocity": 25,
+          "delayMillis": 1000
+        },
+        {
+          "x": 305,
+          "y": 691.5,
+          "velocity": 15,
+          "delayMillis": 1000
+        },
+        {
+          "x": 306,
+          "y": 607.5,
+          "velocity": 15,
+          "delayMillis": 1000
+        },
+        {
+          "x": 350,
+          "y": 533.5,
+          "velocity": 15,
+          "delayMillis": 1000
+        },
+        {
+          "x": 359,
+          "y": 466.5,
+          "velocity": 15,
+          "delayMillis": 300000
         }
-    ]
+      ]
 }

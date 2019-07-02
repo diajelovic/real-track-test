@@ -2,17 +2,23 @@
     "name": "Jon Snow",
     "house": "Stark",
     "wayPoints": [
-       {
-       "x": 302.4,
-       "y": 805.4,
-       "velocity": 1.0,
-       "delayMillis": 1000
-       },
-       {
-        "x": 302.4,
-        "y": 805.3,
-        "velocity": 1.0,
-        "delayMillis": 1000
+        {
+          "x": 289,
+          "y": 808.5,
+          "velocity": 1,
+          "delayMillis": 10000
+        },
+        {
+          "x": 318,
+          "y": 844.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 350,
+          "y": 888,
+          "velocity": 1,
+          "delayMillis": 90000
         }
-    ]
+      ]
 }

@@ -2,17 +2,41 @@
     "name": "Oberyn Martell",
     "house": "Martell",
     "wayPoints": [
-       {
-       "x": 296,
-       "y": 288,
-       "velocity": 1.0,
-       "delayMillis": 1000
-       },
-       {
-        "x": 296,
-        "y": 288.2,
-        "velocity": 1.0,
-        "delayMillis": 1000
+        {
+          "x": 367,
+          "y": 295.5,
+          "velocity": 1,
+          "delayMillis": 300000
+        },
+        {
+          "x": 454,
+          "y": 320.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 514,
+          "y": 398.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 491,
+          "y": 461.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 460,
+          "y": 513.5,
+          "velocity": 1,
+          "delayMillis": 1000
+        },
+        {
+          "x": 371,
+          "y": 459.5,
+          "velocity": 1,
+          "delayMillis": 1000
         }
-    ]
+      ]
 }

@@ -1,24 +1,24 @@
 {
-    "name": "Margaery Tyrell",
-    "house": "Tyrell",
+    "name": "Bran Stark",
+    "house": "Stark",
     "wayPoints": [
         {
-          "x": 412,
-          "y": 373.5,
+          "x": 289,
+          "y": 808.5,
           "velocity": 1,
           "delayMillis": 90000
         },
         {
-          "x": 414,
-          "y": 408.5,
+          "x": 318,
+          "y": 844.5,
           "velocity": 1,
           "delayMillis": 1000
         },
         {
-          "x": 371,
-          "y": 456.5,
+          "x": 350,
+          "y": 888,
           "velocity": 1,
-          "delayMillis": 120000
+          "delayMillis": 90000
         }
       ]
 }

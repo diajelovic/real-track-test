@@ -2,17 +2,65 @@
     "name": "Samwell Tarly",
     "house": "Tarly",
     "wayPoints": [
-       {
-       "x": 199,
-       "y": 276,
-       "velocity": 1.0,
-       "delayMillis": 1000
-       },
-       {
-        "x": 199.2,
-        "y": 276.2,
-        "velocity": 1.0,
-        "delayMillis": 1000
+        {
+            "x": 333,
+            "y": 870,
+            "velocity": 1.0,
+            "delayMillis": 30000
+        },
+        {
+            "x": 326,
+            "y": 865,
+            "velocity": 1.0,
+            "delayMillis": 30000
+        },
+        {
+            "x": 300,
+            "y": 800,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 305,
+            "y": 670,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 305,
+            "y": 600,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 340,
+            "y": 500,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 365,
+            "y": 450,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 280,
+            "y": 405,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 240,
+            "y": 350,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 200,
+            "y": 275,
+            "velocity": 1.0,
+            "delayMillis": 1000
         }
     ]
 }

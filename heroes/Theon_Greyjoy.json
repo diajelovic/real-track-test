@@ -3,13 +3,13 @@
     "house": "Greyjoy",
     "wayPoints": [
        {
-       "x": 802.1,
-       "y": 302.1,
+       "x": 302.1,
+       "y": 802.1,
        "velocity": 1.0,
        "delayMillis": 1000
        },{
-        "x": 802.2,
-        "y": 302.2,
+        "x": 302.2,
+        "y": 802.2,
         "velocity": 1.0,
         "delayMillis": 1000
         }

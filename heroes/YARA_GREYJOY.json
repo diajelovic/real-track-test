@@ -1,5 +1,5 @@
 {
-    "name": "Theon Greyjoy",
+    "name": "Yara Greyjoy",
     "house": "Greyjoy",
     "wayPoints": [
        {
@@ -13,6 +13,85 @@
         "y": 574.1,
         "velocity": 1.0,
         "delayMillis": 1000
+        },
+        {
+            "x": 120,
+            "y": 461,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 122,
+            "y": 340,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 125,
+            "y": 260,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 180,
+            "y": 180,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 320,
+            "y": 166,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 430,
+            "y": 200,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 470,
+            "y": 212,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 478,
+            "y": 314,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 480,
+            "y": 460,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 500,
+            "y": 600,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        }
+        ,
+        {
+            "x": 500,
+            "y": 730,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 450,
+            "y": 800,
+            "velocity": 1.0,
+            "delayMillis": 1000
+        },
+        {
+            "x": 380,
+            "y": 830,
+            "velocity": 1.0,
+            "delayMillis": 1000
         }
     ]
 }
