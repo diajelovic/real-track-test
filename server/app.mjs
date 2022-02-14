@@ -35,7 +35,7 @@ wss.on('connection', ws => {
 })
 
 wss.on('close', () => {
-  console.log('Web-socket connection are closed')
+  console.log('Web-socket connection closed')
 })
 
 setInterval(() => {
@@ -60,7 +60,7 @@ setInterval(() => {
 setInterval(() => {
   wss.clients.forEach(ws => {
     if (!ws.alive) {
-      console.log('Web-socket connection are terminated due keep-alive timeout')
+      console.log('Web-socket connection terminated due keep-alive timeout')
       return ws.terminate()
     }
     
