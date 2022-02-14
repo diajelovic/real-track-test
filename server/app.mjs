@@ -14,6 +14,11 @@ let uptime = 0
 
 const wss = new WebSocketServer({ port: SERVER_PORT + 1 })
 
+server.use((_, response, next) => {
+  response.header('Access-Control-Allow-Origin', '*')
+  next()
+})
+
 server.use(express.static('public'))
 
 server.listen(SERVER_PORT, () => {
