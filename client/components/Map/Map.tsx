@@ -31,7 +31,7 @@ const createMap = (element: HTMLDivElement) => {
   return map;
 };
 
-export const Map: React.FC = React.memo(function Map() {
+export const Map: React.FC = function Map() {
   const mapRef = React.useRef<HTMLDivElement | null>(null);
 
   React.useEffect(() => {
@@ -71,9 +71,10 @@ export const Map: React.FC = React.memo(function Map() {
 
       return () => {
         map.remove();
+        ws.close();
       };
     }
   }, []);
 
   return <div ref={mapRef} className={styles.map} />;
-});
+};
